@@ -1,6 +1,6 @@
 <?php
 $title = "Hello World";
-$content = "<p>Click on the links above. This is just a brief demo of the javascript History plugin, in action. Using jquery for the AJAX request.</p>
+$content = "<p>Click on the links above. This is just a brief demo of the javascript History API, in action. Using jquery for the AJAX request.</p>
 <p>Sed vel nisl. Vivamus pretium est non mauris. Fusce condimentum. Proin molestie. Vestibulum est. Morbi at metus. Nam nisl nulla, euismod at, vehicula nec, molestie vitae, enim. Donec euismod nulla a metus. Suspendisse venenatis metus dapibus dolor. Quisque euismod libero a est. Aliquam feugiat.</p>
 
 <p>Nam elementum urna vel libero. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque quis sem nec tellus fermentum porttitor. Nulla facilisi. Nam hendrerit dolor sed leo. In tellus risus, feugiat eu, volutpat eu, pharetra eu, ante. Fusce auctor. Fusce sapien. Cras aliquam pretium quam.</p>

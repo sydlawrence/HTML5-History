@@ -5,8 +5,8 @@
 	<title><?= $title ?></title>
 	
 	<!-- load global css files -->
-	<link rel="stylesheet" href="typography.css" />
-	<link rel="stylesheet" href="js-html5.css" />
+	<link rel="stylesheet" href="vendor/typography.css" />
+	<link rel="stylesheet" href="vendor/js-html5.css" />
 	
 	<!-- add google analytics code -->	
 	<script type="text/javascript">

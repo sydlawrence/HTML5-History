@@ -62,4 +62,13 @@ window.onpopstate = function(event) {
 		// load the content
 		load_content(event.state.title, window.location.pathname, true);
 	}
+	else { // we need to make it one of ours
+		// generate stateObj, this is used on the pop event
+		var stateObj = {
+			title: document.title,
+			url: window.location.pathname 
+		};
+	
+		window.history.replaceState(stateObj,document.title,window.location.pathname);
+	}
 }

@@ -44,12 +44,17 @@
 	<hr/>
 	
 	<footer>
-		<p>This only works in the following browsers:</p>
+		<p>This demo works in the following browsers:</p>
 		<ul>
 			<li>Firefox 4+ </li>
 			<li>Chrome latest </li>
 			<li>Safari latest </li>
 		</ul>
+		
+		<a href="http://www.w3.org/html/logo/">
+<img src="http://www.w3.org/html/logo/badge/html5-badge-h-performance.png" width="133" height="64" alt="HTML5 Powered with Performance &amp; Integration" title="HTML5 Powered with Performance &amp; Integration">
+</a>
+		
 		<p>This demo was written by <a href="http://twitter.com/sydlawrence">@sydlawrence</a> from <a href="http://www.marmaladeontoast.co.uk">Marmalade on Toast</a>, for <a href="http://js-html5.com">js-html5.com</a></p>
 	</footer>
 	

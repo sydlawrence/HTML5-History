@@ -28,19 +28,21 @@
 </head>
 <body>
 	<header>This is a demo of the javascript History plugin in action</header>
-	<nav>
-		<li><a href="index.php" title="Hello World">Hello World</a></li>
-		<li><a href="dummy.php" title="Dummy Page">Dummy Page</a></li>
-		<li><a href="code.php" title="The Code">The Code</a></li>
-
-	</nav>
 	
-	<section id="content">
-		<h1><?= $title ?></h1>
-
-		<?= $content ?>
-	</section>
+	<article>
+		<nav>
+			<li><a href="index.php" title="Hello World">Hello World</a></li>
+			<li><a href="dummy.php" title="Dummy Page">Dummy Page</a></li>
+			<li><a href="code.php" title="The Code">The Code</a></li>
 	
+		</nav>
+		
+		<section id="content">
+			<h1><?= $title ?></h1>
+	
+			<?= $content ?>
+		</section>
+	</article>
 	<hr/>
 	
 	<footer>

@@ -54,3 +54,9 @@ footer {
 footer li {
 	list-style: none;
 }
+
+article {
+	width:500px;
+	margin-bottom: 10px;
+	margin: 0 auto;
+}

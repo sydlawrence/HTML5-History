@@ -4,9 +4,9 @@ $content = "<p>You can download the code from <a href='https://github.com/sydlaw
 
 
 if(!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest')
-	include('ajaxview.php');
+	include('views/ajaxview.php');
 else
-	include('htmlview.php');
+	include('views/htmlview.php');
 ?>
 
 

@@ -10,7 +10,7 @@ $content = "<p>Click on the links above. This is just a brief demo of the javasc
 ";
 
 if(!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest')
-	include('ajaxview.php');
+	include('views/ajaxview.php');
 else
-	include('htmlview.php');
+	include('views/htmlview.php');
 ?>
